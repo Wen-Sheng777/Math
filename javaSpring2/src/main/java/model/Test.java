@@ -5,7 +5,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Test {
 
-	public static void main(String[] args) {//³o¼ËÀ³¸Óºâ¦³¥Î¨ìSpring...
+	public static void main(String[] args) {//é€™æ¨£æ‡‰è©²ç®—æœ‰ä½¿ç”¨åˆ°Spring...
 		ApplicationContext s1=new ClassPathXmlApplicationContext("sp1.xml");
 		s1.getBean("c");
 
