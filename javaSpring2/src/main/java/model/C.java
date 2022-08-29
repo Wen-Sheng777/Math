@@ -1,8 +1,8 @@
 package model;
 
 public class C {
-	private A a;//ªìª©
-	private B b;//Â²¤Æ¹Lªºª©¥»
+	private A a;//åˆç‰ˆ
+	private B b;//ç°¡åŒ–ç‰ˆæœ¬
 	
 	public A getA() {
 		return a;
